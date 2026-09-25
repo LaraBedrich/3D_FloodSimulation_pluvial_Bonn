@@ -16,9 +16,7 @@ I compared simulation results for durations of 1 hour and 12 hours.
 - Layouts of the simulation results for 1h rain event & 12h rain event
 - mp4 of time lapse of the 12h rain event simulation
 - PowerPoint presentation
-- two project packages
-    - one with all calculated layers and all data used (without final simulations)
-    - one with only the 3D simulations
+- unfortunately, project packages were too big to upload them 
 
 ## Contact
 
